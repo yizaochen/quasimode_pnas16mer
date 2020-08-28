@@ -7,6 +7,8 @@ setup(name='quasimode',
       author='Yizao Chen',
       author_email='yizaochen@gmail.com',
       install_requires=[
+          'numpy',
           'matplotlib',
+          'pandas'
       ]
       )

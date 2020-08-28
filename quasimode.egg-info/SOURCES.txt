@@ -1,0 +1,7 @@
+README.md
+setup.py
+quasimode.egg-info/PKG-INFO
+quasimode.egg-info/SOURCES.txt
+quasimode.egg-info/dependency_links.txt
+quasimode.egg-info/requires.txt
+quasimode.egg-info/top_level.txt

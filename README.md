@@ -9,3 +9,9 @@
 `pip install -e .`
 ### Upgrade package
 `pip install -e . --upgrade`
+
+### Variance Decomposition
+#### bending and stretching
+`./notebooks/BendingAngle_ContourLength.ipynb`
+#### Twist and stretch coupling
+`./notebooks/TwistStretchCoupling.ipynb`
